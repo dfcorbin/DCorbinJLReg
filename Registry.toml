@@ -1,0 +1,6 @@
+name = "DCorbinJLReg"
+uuid = "5ff70fa9-e567-47c0-a843-2243d757a045"
+repo = "https://github.com/dfcorbin/DCorbinJLReg.jl.git"
+description = "Registry for my in-development packages."
+
+[packages]
