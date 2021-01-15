@@ -1,0 +1,4 @@
+name = "ContextualBandits"
+uuid = "36acd394-f996-4ca3-84ce-f99eafba1aa8"
+author = "Douglas Corbin"
+repo = "https://github.com/dfcorbin/ContextualBandits.jl.git"
