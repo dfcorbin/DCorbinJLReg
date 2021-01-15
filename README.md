@@ -19,3 +19,9 @@ Once this step is completed, any hosted package can be added via
 using Pkg
 Pkg.add("$PKG_NAME")
 ```
+
+## Expired Packages
+
+I will list here all the packages which have transitioned to the Julia General Registry.
+
+- Nothing yet.
