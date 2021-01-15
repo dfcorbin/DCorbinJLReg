@@ -5,3 +5,4 @@ description = "Registry for my in-development packages."
 
 [packages]
 d57b171a-2237-49d2-a8f0-cd22f4c2e2bf = { name = "RecursivePartition", path = "RecursivePartition" }
+36acd394-f996-4ca3-84ce-f99eafba1aa8 = { name = "ContextualBandits", path = "ContextualBandits" }
